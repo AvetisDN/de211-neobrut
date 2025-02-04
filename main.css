@@ -236,6 +236,7 @@ textarea {
       padding: 1rem;
       outline: none;
       flex-grow: 1;
+      min-width: 0;
       &:focus {
         background-color: var(--black);
         border-color: var(--white);
